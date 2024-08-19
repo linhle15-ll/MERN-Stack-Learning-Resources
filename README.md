@@ -42,10 +42,26 @@ This repo is consisted of reliable and comprehensive resources to get started an
   - A comprehensive documentation for learning about Zustand
 - **[React Zustand Tutorial](https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX)**
   - My favorite Zustand tutorial on Youtube. Check this out!
+    
 ### How to deploy on Vercel
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-#### Note ####
-I have not learned every thing in above resources but used them for reference, but I think they are good and easy to understand enough to look at. 
+### Interesting UI libraries
+#### Icons
+- **[FontAwesome](https://docs.fontawesome.com/v5/web/use-with/react/)**
+  - Note: To get started, you need to *[install Fontawesome package](https://www.npmjs.com/package/font-awesome)*
+     - `npm i fontawesome`
+- **[lucide.dev](https://lucide.dev/icons/)**
+  - Note: To get started, you need to *[install Lucide package](https://www.npmjs.com/package/lucide-react)*
+
+#### Logo for design/ mockup
+- **[LogoIpsum](https://logoipsum.com/)**
+
+#### React UI Components (modal/ form/ banner/ popup/ card/ ...)
+- **[HyperUI](https://www.hyperui.dev/)**
+- **[AntDesign](https://ant.design/)**
+   - Get started: `npm i antd`
+- **[MUI Material UI](https://mui.com/material-ui/)**
+   - Get started: *[Install](https://mui.com/material-ui/getting-started/installation/)*
