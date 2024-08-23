@@ -48,6 +48,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+### Need authentication? Check out Clerk🔒
+**[Clerk Authentication](https://clerk.com/)**
+
 ### Interesting UI libraries
 #### Icons
 - **[FontAwesome](https://docs.fontawesome.com/v5/web/use-with/react/)**
