@@ -68,3 +68,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    - Get started: `npm i antd`
 - **[MUI Material UI](https://mui.com/material-ui/)**
    - Get started: *[Install](https://mui.com/material-ui/getting-started/installation/)*
+- **[Shadcn/UI](https://ui.shadcn.com/docs/installation)**
+  - Get started: *[Install](https://ui.shadcn.com/docs/installation)*
